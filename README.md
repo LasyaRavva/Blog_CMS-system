@@ -85,8 +85,10 @@ npm run dev
 
 ## Database Diagram
 
-- PNG: [database-schema-diagram.png](C:/Users/Swapnika/Downloads/blog-cms/blog-cms/docs/database-schema-diagram.png)
-- Notes: [database-schema-diagram.md](C:/Users/Swapnika/Downloads/blog-cms/blog-cms/docs/database-schema-diagram.md)
+![Database Schema Diagram](docs/database-schema-diagram.png)
+
+- PNG file: [docs/database-schema-diagram.png](docs/database-schema-diagram.png)
+- Notes: [docs/database-schema-diagram.md](docs/database-schema-diagram.md)
 
 ## Project Structure
 
