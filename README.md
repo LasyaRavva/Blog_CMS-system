@@ -86,9 +86,9 @@ npm run dev
 ## Database Diagram
 
 ![Database Schema Diagram](docs/database-schema-diagram.png)
-
-- PNG file: [docs/database-schema-diagram.png](docs/database-schema-diagram.png)
-- Notes: [docs/database-schema-diagram.md](docs/database-schema-diagram.md)
+<!-- 
+- PNG file: [docs/database-schema-diagram.png](docs/database-schema-diagram.png) -->
+<!-- ![Database Schema Diagram](docs/database-schema-diagram.md(docs/database-schema-diagram.md) -->
 
 ## Project Structure
 
